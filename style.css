@@ -1,7 +1,12 @@
 h1 {
   color: red;
+  font-size: 102px;
 }
 li {
   color: green;
-  font-family: cursive;
+
+}
+p {
+  color: violet;
+  font-style: italic;
 }
